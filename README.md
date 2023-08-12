@@ -1,4 +1,4 @@
-#Aplicad Modelo Flyweight
+#Aplicado Modelo Flyweight
 
 
 ```Python
