@@ -59,11 +59,7 @@ def train_and_predict(csv_file_path):
 ```
 
 
-<b> Faz previsa de Preço para venda com base nos valores recebidos pelo Decorator e uma checada na base de dados no SqlServer. Tambem faz um calculo de probabilidade  e retorna o resultado junto </b>
-
-
-
-
+<b> Faz previsao de Preço para venda com base nos valores recebidos pelo Decorator e uma checada na base de dados no SqlServer. Tambem faz um calculo de probabilidade  e retorna o resultado junto </b>
 
 
 
